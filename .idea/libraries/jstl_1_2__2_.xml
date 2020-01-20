@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jstl-1.2 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/postgresql-42.2.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

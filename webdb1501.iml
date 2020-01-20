@@ -20,7 +20,9 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="Tomcat 9.0.30" level="application_server_libraries" />
-    <orderEntry type="library" name="postgresql-42.2.9" level="project" />
-    <orderEntry type="library" name="jstl-1.2" level="project" />
+    <orderEntry type="library" name="jstl-1.2 (2)" level="project" />
+    <orderEntry type="library" name="javax.servlet-api-4.0.1" level="project" />
+    <orderEntry type="library" name="jackson-core-2.10.1" level="project" />
+    <orderEntry type="library" name="jackson-databind-2.10.1" level="project" />
   </component>
 </module>

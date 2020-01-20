@@ -1,6 +1,6 @@
 <Context>
-    <Resource name="jdbc/example" auth="Container" type="javax.sql.DataSource"
-              maxTotal="100" maxIdle="30" maxWaitMillis="10000"
-              username="eugeny" password="123" driverClassName="org.postgresql.Driver"
-              url="jdbc:postgresql://localhost:5432/example"/>
+<Resource name="jdbc/example" auth="Container" type="javax.sql.DataSource"
+          maxTotal="100" maxIdle="30" maxWaitMillis="10000"
+          username="postgres" password="apple25" driverClassName="org.postgresql.Driver"
+          url="jdbc:postgresql://localhost:5432/example"/>
 </Context>

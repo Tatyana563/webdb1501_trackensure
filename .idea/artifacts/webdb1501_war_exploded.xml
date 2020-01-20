@@ -2,16 +2,17 @@
   <artifact type="exploded-war" name="webdb1501:war exploded">
     <output-path>$PROJECT_DIR$/out/artifacts/webdb1501_war_exploded</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="webdb1501/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="webdb1501" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="postgresql-42.2.9" />
-          <element id="library" level="project" name="jstl-1.2" />
+          <element id="library" level="project" name="jstl-1.2 (2)" />
+          <element id="library" level="project" name="jackson-core-2.10.1" />
+          <element id="library" level="project" name="jackson-databind-2.10.1" />
         </element>
       </element>
+      <element id="javaee-facet-resources" facet="webdb1501/web/Web" />
     </root>
   </artifact>
 </component>
